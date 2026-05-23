@@ -1,8 +1,4 @@
-/* ============================================================
-   app.js  –  UI logic for Sohail's CineVault
-   ============================================================ */
 
-/**
  * Build a single card element for a given item.
  * @param {Object} item  - One entry from data.js
  * @returns {HTMLElement}
