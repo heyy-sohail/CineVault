@@ -1,7 +1,3 @@
-/* ============================================================
-   data.js  –  All content for Sohail's CineVault
-   Edit this file to update titles, ratings, images or descriptions.
-   ============================================================ */
 
 const movies = [
   {
