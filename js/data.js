@@ -102,7 +102,7 @@ const tvShows = [
   {
     rank: 3,
     title: "The Boys",
-    year: "2019–",
+    year: "2019–2026",
     rating: "8.7",
     img: "images/tv/the_boys.jpg",
     desc: "In a world where superheroes are corrupt celebrities owned by a mega-corporation, a group of vigilantes sets out to expose and bring them down."
@@ -185,7 +185,7 @@ const anime = [
   {
     rank: 3,
     title: "Hajime no Ippo",
-    year: "2000–",
+    year: "2000–2014",
     rating: "8.8",
     img: "images/anime/hajime_no_ippo.png",
     desc: "A shy, bullied high school boy discovers boxing and dedicates himself to becoming world champion, learning the true meaning of strength."
@@ -193,7 +193,7 @@ const anime = [
   {
     rank: 4,
     title: "Vinland Saga",
-    year: "2019–",
+    year: "2019–2023",
     rating: "8.7",
     img: "images/anime/vinland_saga.png",
     desc: "A young Viking warrior seeks revenge for his father's death, but his journey forces him to question war, vengeance, and what it truly means to be strong."
